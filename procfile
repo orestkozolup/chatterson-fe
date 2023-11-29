@@ -1,0 +1,1 @@
+web: docker run -p $PORT:8080 chatterson-fe-image:v3
